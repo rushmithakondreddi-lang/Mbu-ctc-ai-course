@@ -1,0 +1,1 @@
+# Mbu-ctc-ai-course
